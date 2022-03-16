@@ -1,0 +1,5 @@
+[prometheus]
+172.25.148.99 ansible_user=cuongph ansible_password=Huucuong1998!  ansible_connection=local ansible_sudo_pass=Huucuong1998!
+
+[node_exporter]
+172.25.148.42 ansible_user=cuongph ansible_password=Huucuong1998!  ansible_connection=local ansible_sudo_pass=Huucuong1998!
